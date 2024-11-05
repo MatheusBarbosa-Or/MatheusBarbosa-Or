@@ -3,13 +3,13 @@
 <h3 align="center">Desenvolvedor</h3>
 
 <p>
-  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbarbosa-or&theme=dark&show_icons=true&locale=en&layout=compact&count_private=true" alt="matheusbarbosa-or" />
+  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbarbosa-or&theme=dark&show_icons=true&locale=pt-br&layout=compact&count_private=true" alt="matheusbarbosa-or" />
 </p>
 
 </br>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusbarbosa-or&theme=dark&show_icons=true&locale=en" alt="matheusbarbosa-or" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusbarbosa-or&theme=dark&show_icons=true&locale=pt-br"&count_private=true alt="matheusbarbosa-or" />
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
