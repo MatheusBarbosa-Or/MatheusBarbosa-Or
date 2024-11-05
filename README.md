@@ -1,6 +1,15 @@
-<h1 align="center">João Matheus</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF782&center=true&multiline=true&width=850&lines=Jo%C3%A3o+Matheus;Desenvolvedor" alt="Typing SVG" /></a>
 
-<h3 align="center">Desenvolvedor</h3>
+</br>
+
+<p>
+
+  
+ - Estudante de Ciência da Computação.
+ - Atualmente estudando Java e React.
+</p>
+
+</br>
 
 <p>
   <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbarbosa-or&theme=dark&show_icons=true&locale=pt-br&layout=compact&count_private=true" alt="matheusbarbosa-or" />
@@ -30,7 +39,9 @@
 <h3 align="left">Redes Sociais:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/joão-matheus-barbosa-ornelas-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-matheus-barbosa-ornelas-/" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/joão-matheus-barbosa-ornelas-/ target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+</a>
 </p>
 
 
