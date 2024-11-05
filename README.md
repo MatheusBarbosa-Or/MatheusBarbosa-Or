@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF782&center=true&multiline=true&width=850&lines=Jo%C3%A3o+Matheus;Desenvolvedor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=4EF782&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Jo%C3%A3o+Matheus;Desenvolvedor" alt="Typing SVG" /></a>
 
 </br>
 
@@ -6,7 +6,7 @@
 
   
  - Estudante de Ciência da Computação.
- - Atualmente estudando Java e React.
+ - Atualmente me aventurando em Java e React.
 </p>
 
 </br>
