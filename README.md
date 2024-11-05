@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor</h3>
 
 <p>
-  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbarbosa-or&theme=dark&show_icons=true&locale=en&layout=compact" alt="matheusbarbosa-or" />
+  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbarbosa-or&theme=dark&show_icons=true&locale=en&layout=compact&count_private=true" alt="matheusbarbosa-or" />
 </p>
 
 </br>
