@@ -5,7 +5,7 @@
 <p>
 
   
- - Estudante de Ciência da Computação.
+ - Bacharel em Ciência da Computação.
  - Atualmente me aventurando em Java e React.
 </p>
 
